@@ -23,3 +23,7 @@ As a user I want the ability to:
 ## Wireframes
 
 ![Project wireframes](img/Project_2_Wireframe.png)
+
+## ERDs
+
+![Project ERDS](img/Plant-Site-ERD.png)
